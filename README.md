@@ -1,6 +1,6 @@
 # VACIRIS
 
-Full project is [available here](https://mega.nz/file/oT4WxRIC#lE7dicoKKpl4xhSqpej2rr2uNWYWDmB3OflorfzH8Zk).
+[![Full project](https://mega.nz/file/oT4WxRIC#lE7dicoKKpl4xhSqpej2rr2uNWYWDmB3OflorfzH8Zk)
 
 ## Our team
 
